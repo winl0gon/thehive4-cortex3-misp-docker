@@ -1,3 +1,8 @@
 vol
 tags
 .env
+configs
+files
+gnupg
+logs
+ssl
