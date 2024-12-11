@@ -1,6 +1,15 @@
 # This repo just modified below template
 
+```
+The default setting do not recommanded on product environment.
+If you want use this template on product enviroment, Please modify configuration refer to below links.
+---
+You can run below command on local.
+$ docker compose up
+```
+
  - https://github.com/TheHive-Project/Docker-Templates
+ - https://github.com/MISP/misp-docker
 
 ## Example of docker-compose (not for production)
 With this docker-compose.yml you will be able to run the following images:
