@@ -2,13 +2,12 @@ The default setting do not recommanded on product environment.
 If you want use this template on product enviroment, Please modify configuration refer to below links.
  - https://github.com/TheHive-Project/Docker-Templates
  - https://github.com/MISP/misp-docker
----
+
 You can run below command on local.
+
 ```
 $ docker compose up
 ```
-
-
 
 | Service   |      Address      |  User |  Password |
 |----------|:-------------:|:------:|------:|
